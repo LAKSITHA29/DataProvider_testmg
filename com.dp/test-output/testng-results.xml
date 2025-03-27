@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-03-27T11:50:26 IST" name="Suite" finished-at="2025-03-27T11:52:03 IST" duration-ms="97213">
+    <groups>
+    </groups>
+    <test started-at="2025-03-27T11:50:26 IST" name="Test" finished-at="2025-03-27T11:52:03 IST" duration-ms="97213">
+      <class name="com.tests.RegisterTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.tests.RegisterTest@7eac9008]" started-at="2025-03-27T11:50:49 IST" name="setup" finished-at="2025-03-27T11:51:05 IST" duration-ms="15863" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Register(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.tests.RegisterTest@7eac9008]" started-at="2025-03-27T11:51:05 IST" name="Register" data-provider="excelData" finished-at="2025-03-27T11:51:12 IST" duration-ms="7095" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Gender]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[FirstName]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[LastName]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Email]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Password]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[ConfirmPassword]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Register -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tests.RegisterTest@7eac9008]" started-at="2025-03-27T11:51:12 IST" name="tearDown" finished-at="2025-03-27T11:51:12 IST" duration-ms="398" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.tests.RegisterTest@7eac9008]" started-at="2025-03-27T11:51:12 IST" name="setup" finished-at="2025-03-27T11:51:26 IST" duration-ms="13277" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Register(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.tests.RegisterTest@7eac9008]" started-at="2025-03-27T11:51:26 IST" name="Register" data-provider="excelData" finished-at="2025-03-27T11:51:41 IST" duration-ms="15375" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[female]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[sans]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ravi]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[sans@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Pass1234]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Pass1234]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Register -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tests.RegisterTest@7eac9008]" started-at="2025-03-27T11:51:41 IST" name="tearDown" finished-at="2025-03-27T11:51:42 IST" duration-ms="752" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.tests.RegisterTest@7eac9008]" started-at="2025-03-27T11:51:42 IST" name="setup" finished-at="2025-03-27T11:51:56 IST" duration-ms="13963" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Register(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.tests.RegisterTest@7eac9008]" started-at="2025-03-27T11:51:56 IST" name="Register" data-provider="excelData" finished-at="2025-03-27T11:52:03 IST" duration-ms="7003" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Register -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tests.RegisterTest@7eac9008]" started-at="2025-03-27T11:52:03 IST" name="tearDown" finished-at="2025-03-27T11:52:03 IST" duration-ms="393" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.tests.RegisterTest -->
+      <class name="com.tests.HomeTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.tests.HomeTest@62379589]" started-at="2025-03-27T11:50:26 IST" name="setup" finished-at="2025-03-27T11:50:47 IST" duration-ms="20841" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginTest()[pri:0, instance:com.tests.HomeTest@62379589]" started-at="2025-03-27T11:50:47 IST" name="loginTest" finished-at="2025-03-27T11:50:47 IST" duration-ms="127" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tests.HomeTest@62379589]" started-at="2025-03-27T11:50:47 IST" name="tearDown" finished-at="2025-03-27T11:50:47 IST" duration-ms="350" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.tests.HomeTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
